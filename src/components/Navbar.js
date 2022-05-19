@@ -28,7 +28,7 @@ const Navbar = (props) => {
           </button>
           <button className="px-8 py-3">Sign Up</button>
         </div>
-        <div className="md:hidden" onClick={navMenuHandler}>
+        <div className="md:hidden mr-4" onClick={navMenuHandler}>
             {!nav ? <MenuIcon className="w-5" /> : <XIcon className='w-5' />}
           
         </div>
