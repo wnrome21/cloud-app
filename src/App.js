@@ -1,10 +1,14 @@
-import './App.css';
+import React from 'react';
+import Navbar from './components/Navbar';
+import Hero from './components/Hero';
+
 
 function App() {
   return (
-    <div>
-      There we Go
-    </div>
+    <>
+    <Navbar />
+    <Hero />
+    </>
   );
 }
 
