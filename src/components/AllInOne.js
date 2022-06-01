@@ -9,8 +9,7 @@ const AllInOne = () => {
         <h2 className="text-5xl font-bold text-center">All-In-One Platform</h2>
         <p className="text-2xl py-8 text-gray-500 text-center">
           Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis,
-          ab. Officia sunt nulla aspernatur culpa, eaque tenetur excepturi
-          nostrum tempore.
+          ab. Officia sunt nulla aspernatur culpa, eaque tenetur.
         </p>
         <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-4 pt-4">
           <div className="flex">
